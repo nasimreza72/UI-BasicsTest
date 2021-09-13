@@ -1,0 +1,57 @@
+/* *{
+    margin: 0%;
+} */
+
+header{
+    background-color: cyan;
+    position: sticky;
+    top: 0%;
+
+}
+
+.blue{
+    color: blue;
+}
+
+.images .image{
+    display: inline;
+}
+
+h3{
+    color: rgb(247, 160, 0);
+    font-size: 2em;
+    text-transform: uppercase;
+    
+}
+
+/* *** If i wanted to select only h3 elements with classes
+
+.three{
+    color: rgb(247, 160, 0);
+    font-size: 2em;
+    text-transform: uppercase;
+} */
+
+.box-model{
+    padding: 5px;
+    margin: 10vw;
+}
+
+.tree{
+    border-radius: 100px;
+}
+
+
+.links a{
+    text-decoration: none;
+}
+
+/* +++++++++++footer+++++++++++ */
+
+.footer-ul a:visited{
+    color: green;
+}
+
+.footer-ul a:hover{
+    color: red;
+}
